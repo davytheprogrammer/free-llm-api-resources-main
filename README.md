@@ -13,432 +13,128 @@ This lists various services that provide free access or credits towards API-base
 
 ## Free Providers
 
-<table>
-    <thead>
-        <tr>
-            <th>Provider</th>
-            <th>Provider Limits/Notes</th>
-            <th>Model Name</th>
-            <th>Model Limits</th>
-        </tr>
-    </thead>
-    <tbody>
-<tr><td rowspan="43"><a href="https://openrouter.ai" target="_blank">OpenRouter</a></td><td rowspan="43">20 requests/minute<br>200 requests/day</td><td>DeepHermes 3 Llama 3 8B Preview</td><td></td></tr>
-<tr><td>DeepSeek R1</td><td></td></tr>
-<tr><td>DeepSeek R1 Distill Llama 70B</td><td></td></tr>
-<tr><td>DeepSeek R1 Distill Qwen 14B</td><td></td></tr>
-<tr><td>DeepSeek R1 Distill Qwen 32B</td><td></td></tr>
-<tr><td>DeepSeek R1 Zero</td><td></td></tr>
-<tr><td>DeepSeek V3</td><td></td></tr>
-<tr><td>Dolphin 3.0 Mistral 24B</td><td></td></tr>
-<tr><td>Dolphin 3.0 R1 Mistral 24B</td><td></td></tr>
-<tr><td>Gemini 2.0 Flash Lite Preview 02-05</td><td></td></tr>
-<tr><td>Gemma 2 9B Instruct</td><td></td></tr>
-<tr><td>Gemma 3 12B Instruct</td><td></td></tr>
-<tr><td>Gemma 3 1B Instruct</td><td></td></tr>
-<tr><td>Gemma 3 27B Instruct</td><td></td></tr>
-<tr><td>Gemma 3 4B Instruct</td><td></td></tr>
-<tr><td>Llama 3 8B Instruct</td><td></td></tr>
-<tr><td>Llama 3.1 8B Instruct</td><td></td></tr>
-<tr><td>Llama 3.1 Nemotron 70B Instruct</td><td></td></tr>
-<tr><td>Llama 3.2 11B Vision Instruct</td><td></td></tr>
-<tr><td>Llama 3.2 1B Instruct</td><td></td></tr>
-<tr><td>Llama 3.2 3B Instruct</td><td></td></tr>
-<tr><td>Llama 3.3 70B Instruct</td><td></td></tr>
-<tr><td>Mistral 7B Instruct</td><td></td></tr>
-<tr><td>Mistral Nemo</td><td></td></tr>
-<tr><td>Mistral Small 24B Instruct 2501</td><td></td></tr>
-<tr><td>Moonlight-16B-A3B-Instruct</td><td></td></tr>
-<tr><td>Mythomax L2 13B</td><td></td></tr>
-<tr><td>OlympicCoder 32B</td><td></td></tr>
-<tr><td>OlympicCoder 7B</td><td></td></tr>
-<tr><td>OpenChat 7B</td><td></td></tr>
-<tr><td>Phi-3 Medium 128k Instruct</td><td></td></tr>
-<tr><td>Phi-3 Mini 128k Instruct</td><td></td></tr>
-<tr><td>Qwen 2 7B Instruct</td><td></td></tr>
-<tr><td>Qwen 2.5 72B Instruct</td><td></td></tr>
-<tr><td>Qwen QwQ 32B</td><td></td></tr>
-<tr><td>Qwen QwQ 32B Preview</td><td></td></tr>
-<tr><td>Qwen2.5 Coder 32B Instruct</td><td></td></tr>
-<tr><td>Qwen2.5 VL 72B Instruct</td><td></td></tr>
-<tr><td>Reka Flash 3</td><td></td></tr>
-<tr><td>Rogue Rose 103B v0.2</td><td></td></tr>
-<tr><td>Toppy M 7B</td><td></td></tr>
-<tr><td>Zephyr 7B Beta</td><td></td></tr>
-<tr><td>mistralai/mistral-small-3.1-24b-instruct:free</td><td></td></tr>
-<tr>
-            <td rowspan="11"><a href="https://aistudio.google.com" target="_blank">Google AI Studio</a></td>
-            <td rowspan="11">Data is used for training (when used outside of the UK/CH/EEA/EU).</td>
-            <td>Gemini 2.0 Flash</td>
-            <td>1,000,000 tokens/minute<br>1,500 requests/day<br>15 requests/minute</td>
-        </tr>
-        <tr>
-            <td>Gemini 2.0 Flash-Lite</td>
-            <td>1,000,000 tokens/minute<br>1,500 requests/day<br>30 requests/minute</td>
-        </tr>
-        <tr>
-            <td>Gemini 2.0 Flash (Experimental)</td>
-            <td>4,000,000 tokens/minute<br>1,500 requests/day<br>10 requests/minute</td>
-        </tr>
-        <tr>
-            <td>Gemini 2.0 Pro (Experimental)</td>
-            <td>5,000,000 tokens/day<br>2,000,000 tokens/minute<br>50 requests/day<br>2 requests/minute</td>
-        </tr>
-        <tr>
-            <td>Gemini 1.5 Flash</td>
-            <td>1,000,000 tokens/minute<br>1,500 requests/day<br>15 requests/minute</td>
-        </tr>
-        <tr>
-            <td>Gemini 1.5 Flash-8B</td>
-            <td>1,000,000 tokens/minute<br>1,500 requests/day<br>15 requests/minute</td>
-        </tr>
-        <tr>
-            <td>Gemini 1.5 Pro</td>
-            <td>32,000 tokens/minute<br>50 requests/day<br>2 requests/minute</td>
-        </tr>
-        <tr>
-            <td>LearnLM 1.5 Pro (Experimental)</td>
-            <td>1,500 requests/day<br>15 requests/minute</td>
-        </tr>
-        <tr>
-            <td>Gemma 3 27B Instruct</td>
-            <td>15,000 tokens/minute<br>14,400 requests/day<br>30 requests/minute</td>
-        </tr>
-        <tr>
-            <td>text-embedding-004</td>
-            <td rowspan="2">150 batch requests/minute<br>1,500 requests/minute<br>100 content/batch</td>
-        </tr>
-        <tr>
-            <td>embedding-001</td>
-        </tr><tr>
-        <td><a href="https://console.mistral.ai/" target="_blank">Mistral (La Plateforme)</a></td>
-        <td>Free tier (Experiment plan) requires opting into data training, requires phone number verification.</td>
-        <td>Open and Proprietary Mistral models</td>
-        <td>1 request/second<br>500,000 tokens/minute<br>1,000,000,000 tokens/month</td>
-    </tr><tr>
-        <td><a href="https://codestral.mistral.ai/" target="_blank">Mistral (Codestral)</a></td>
-        <td>Currently free to use, monthly subscription based, requires phone number verification.</td>
-        <td>Codestral</td>
-        <td>30 requests/minute<br>2,000 requests/day</td>
-    </tr><tr>
-            <td><a href="https://huggingface.co/docs/api-inference/en/index" target="_blank">HuggingFace Serverless Inference</a></td>
-            <td>Limited to models smaller than 10GB.<br>Some popular models are supported even if they exceed 10GB.</td>
-            <td>Various open models</td>
-            <td><a href="https://huggingface.co/docs/api-inference/pricing" target="_blank">Variable credits per month, currently $0.10</a></td>
-        </tr><tr>
-        <td rowspan="2"><a href="https://cloud.cerebras.ai/" target="_blank">Cerebras</a></td>
-        <td rowspan="2">Free tier restricted to 8K context</td>
-        <td>Llama 3.1 8B</td>
-        <td>30 requests/minute<br>60,000 tokens/minute<br>900 requests/hour<br>1,000,000 tokens/hour<br>14,400 requests/day<br>1,000,000 tokens/day</td>
-    </tr>
-    <tr>
-        <td>Llama 3.3 70B</td>
-        <td>30 requests/minute<br>60,000 tokens/minute<br>900 requests/hour<br>1,000,000 tokens/hour<br>14,400 requests/day<br>1,000,000 tokens/day</td>
-    </tr><tr><td rowspan="21"><a href="https://console.groq.com" target="_blank">Groq</a></td><td rowspan="21"></td><td>Allam 2 7B</td><td>7,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>DeepSeek R1 Distill Llama 70B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>DeepSeek R1 Distill Qwen 32B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Distil Whisper Large v3</td><td>7,200 audio-seconds/minute<br>2,000 requests/day</td></tr>
-<tr><td>Gemma 2 9B Instruct</td><td>14,400 requests/day<br>15,000 tokens/minute</td></tr>
-<tr><td>Llama 3 70B</td><td>14,400 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Llama 3 8B</td><td>14,400 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Llama 3.1 8B</td><td>14,400 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Llama 3.2 11B Vision</td><td>7,000 requests/day<br>7,000 tokens/minute</td></tr>
-<tr><td>Llama 3.2 1B</td><td>7,000 requests/day<br>7,000 tokens/minute</td></tr>
-<tr><td>Llama 3.2 3B</td><td>7,000 requests/day<br>7,000 tokens/minute</td></tr>
-<tr><td>Llama 3.2 90B Vision</td><td>3,500 requests/day<br>7,000 tokens/minute</td></tr>
-<tr><td>Llama 3.3 70B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Llama 3.3 70B (Speculative Decoding)</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Llama Guard 3 8B</td><td>14,400 requests/day<br>15,000 tokens/minute</td></tr>
-<tr><td>Mistral Saba 24B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Qwen 2.5 32B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Qwen 2.5 Coder 32B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Qwen QwQ 32B</td><td>1,000 requests/day<br>6,000 tokens/minute</td></tr>
-<tr><td>Whisper Large v3</td><td>7,200 audio-seconds/minute<br>2,000 requests/day</td></tr>
-<tr><td>Whisper Large v3 Turbo</td><td>7,200 audio-seconds/minute<br>2,000 requests/day</td></tr>
-<tr><td rowspan="9"><a href="https://endpoints.ai.cloud.ovh.net/" target="_blank">OVH AI Endpoints (Free Beta)</a></td><td rowspan="9"></td><td>Codestral Mamba 7B v0.1</td><td>12 requests/minute</td></tr>
-<tr><td>DeepSeek R1 Distill Llama 70B</td><td>12 requests/minute</td></tr>
-<tr><td>Llama 3.1 70B Instruct</td><td>12 requests/minute</td></tr>
-<tr><td>Llama 3.1 8B Instruct</td><td>12 requests/minute</td></tr>
-<tr><td>Llama 3.3 70B Instruct</td><td>12 requests/minute</td></tr>
-<tr><td>Llava Next Mistral 7B</td><td>12 requests/minute</td></tr>
-<tr><td>Mistral 7B Instruct v0.3</td><td>12 requests/minute</td></tr>
-<tr><td>Mistral Nemo 2407</td><td>12 requests/minute</td></tr>
-<tr><td>Mixtral 8x7B Instruct</td><td>12 requests/minute</td></tr>
-<tr>
-        <td rowspan="3"><a href="https://together.ai">Together</a></td>
-        <td rowspan="3"></td>
-        <td>Llama 3.2 11B Vision Instruct</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Llama 3.3 70B Instruct</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>DeepSeek R1 Distil Llama 70B</td>
-        <td></td>
-    </tr><tr>
-            <td rowspan="3"><a href="https://cohere.com" target="_blank">Cohere</a></td>
-            <td rowspan="3"><a href="https://docs.cohere.com/docs/rate-limits">20 requests/min<br>1,000 requests/month</a></td>
-            <td>Command-R</td>
-            <td rowspan="3">Shared Limit</td>
-        </tr>
-        <tr>
-            <td>Command-R+</td>
-        </tr>
-        <tr>
-            <td>Command-A</td>
-        </tr><tr><td rowspan="47"><a href="https://github.com/marketplace/models" target="_blank">GitHub Models</a></td><td rowspan="47">Extremely restrictive input/output token limits.<br><a href="https://docs.github.com/en/github-models/prototyping-with-ai-models#rate-limits" target="_blank">Rate limits dependent on Copilot subscription tier (Free/Pro/Business/Enterprise)</a></td><td>AI21 Jamba 1.5 Large</td><td></td></tr>
-<tr><td>AI21 Jamba 1.5 Mini</td><td></td></tr>
-<tr><td>Codestral 25.01</td><td></td></tr>
-<tr><td>Cohere Command R</td><td></td></tr>
-<tr><td>Cohere Command R 08-2024</td><td></td></tr>
-<tr><td>Cohere Command R+</td><td></td></tr>
-<tr><td>Cohere Command R+ 08-2024</td><td></td></tr>
-<tr><td>Cohere Embed v3 English</td><td></td></tr>
-<tr><td>Cohere Embed v3 Multilingual</td><td></td></tr>
-<tr><td>DeepSeek-R1</td><td></td></tr>
-<tr><td>DeepSeek-V3</td><td></td></tr>
-<tr><td>JAIS 30b Chat</td><td></td></tr>
-<tr><td>Llama-3.2-11B-Vision-Instruct</td><td></td></tr>
-<tr><td>Llama-3.2-90B-Vision-Instruct</td><td></td></tr>
-<tr><td>Llama-3.3-70B-Instruct</td><td></td></tr>
-<tr><td>Meta-Llama-3-70B-Instruct</td><td></td></tr>
-<tr><td>Meta-Llama-3-8B-Instruct</td><td></td></tr>
-<tr><td>Meta-Llama-3.1-405B-Instruct</td><td></td></tr>
-<tr><td>Meta-Llama-3.1-70B-Instruct</td><td></td></tr>
-<tr><td>Meta-Llama-3.1-8B-Instruct</td><td></td></tr>
-<tr><td>Ministral 3B</td><td></td></tr>
-<tr><td>Mistral Large</td><td></td></tr>
-<tr><td>Mistral Large (2407)</td><td></td></tr>
-<tr><td>Mistral Large 24.11</td><td></td></tr>
-<tr><td>Mistral Nemo</td><td></td></tr>
-<tr><td>Mistral Small</td><td></td></tr>
-<tr><td>Mistral Small 3.1</td><td></td></tr>
-<tr><td>OpenAI GPT-4o</td><td></td></tr>
-<tr><td>OpenAI GPT-4o mini</td><td></td></tr>
-<tr><td>OpenAI Text Embedding 3 (large)</td><td></td></tr>
-<tr><td>OpenAI Text Embedding 3 (small)</td><td></td></tr>
-<tr><td>OpenAI o1</td><td></td></tr>
-<tr><td>OpenAI o1-mini</td><td></td></tr>
-<tr><td>OpenAI o1-preview</td><td></td></tr>
-<tr><td>OpenAI o3-mini</td><td></td></tr>
-<tr><td>Phi-3-medium instruct (128k)</td><td></td></tr>
-<tr><td>Phi-3-medium instruct (4k)</td><td></td></tr>
-<tr><td>Phi-3-mini instruct (128k)</td><td></td></tr>
-<tr><td>Phi-3-mini instruct (4k)</td><td></td></tr>
-<tr><td>Phi-3-small instruct (128k)</td><td></td></tr>
-<tr><td>Phi-3-small instruct (8k)</td><td></td></tr>
-<tr><td>Phi-3.5-MoE instruct (128k)</td><td></td></tr>
-<tr><td>Phi-3.5-mini instruct (128k)</td><td></td></tr>
-<tr><td>Phi-3.5-vision instruct (128k)</td><td></td></tr>
-<tr><td>Phi-4</td><td></td></tr>
-<tr><td>Phi-4-mini-instruct</td><td></td></tr>
-<tr><td>Phi-4-multimodal-instruct</td><td></td></tr>
-<tr>
-        <td><a href="https://chutes.ai/">Chutes</a></td>
-        <td>Distributed, decentralized crypto-based compute. Data is sent to individual hosts.</td>
-        <td>Various open models</td>
-        <td></td>
-    </tr><tr><td rowspan="43"><a href="https://developers.cloudflare.com/workers-ai" target="_blank">Cloudflare Workers AI</a></td><td rowspan="43"><a href="https://developers.cloudflare.com/workers-ai/platform/pricing/#free-allocation">10,000 neurons/day</a></td><td>DeepSeek R1 Distill Qwen 32B</td><td></td></tr>
-<tr><td>Deepseek Coder 6.7B Base (AWQ)</td><td></td></tr>
-<tr><td>Deepseek Coder 6.7B Instruct (AWQ)</td><td></td></tr>
-<tr><td>Deepseek Math 7B Instruct</td><td></td></tr>
-<tr><td>Discolm German 7B v1 (AWQ)</td><td></td></tr>
-<tr><td>Falcom 7B Instruct</td><td></td></tr>
-<tr><td>Gemma 2B Instruct (LoRA)</td><td></td></tr>
-<tr><td>Gemma 7B Instruct</td><td></td></tr>
-<tr><td>Gemma 7B Instruct (LoRA)</td><td></td></tr>
-<tr><td>Hermes 2 Pro Mistral 7B</td><td></td></tr>
-<tr><td>Llama 2 13B Chat (AWQ)</td><td></td></tr>
-<tr><td>Llama 2 7B Chat (FP16)</td><td></td></tr>
-<tr><td>Llama 2 7B Chat (INT8)</td><td></td></tr>
-<tr><td>Llama 2 7B Chat (LoRA)</td><td></td></tr>
-<tr><td>Llama 3 8B Instruct</td><td></td></tr>
-<tr><td>Llama 3 8B Instruct</td><td></td></tr>
-<tr><td>Llama 3 8B Instruct (AWQ)</td><td></td></tr>
-<tr><td>Llama 3.1 8B Instruct</td><td></td></tr>
-<tr><td>Llama 3.1 8B Instruct (AWQ)</td><td></td></tr>
-<tr><td>Llama 3.1 8B Instruct (FP8)</td><td></td></tr>
-<tr><td>Llama 3.2 11B Vision Instruct</td><td></td></tr>
-<tr><td>Llama 3.2 1B Instruct</td><td></td></tr>
-<tr><td>Llama 3.2 3B Instruct</td><td></td></tr>
-<tr><td>Llama 3.3 70B Instruct (FP8)</td><td></td></tr>
-<tr><td>Llama Guard 3 8B</td><td></td></tr>
-<tr><td>LlamaGuard 7B (AWQ)</td><td></td></tr>
-<tr><td>Mistral 7B Instruct v0.1</td><td></td></tr>
-<tr><td>Mistral 7B Instruct v0.1 (AWQ)</td><td></td></tr>
-<tr><td>Mistral 7B Instruct v0.2</td><td></td></tr>
-<tr><td>Mistral 7B Instruct v0.2 (LoRA)</td><td></td></tr>
-<tr><td>Neural Chat 7B v3.1 (AWQ)</td><td></td></tr>
-<tr><td>OpenChat 3.5 0106</td><td></td></tr>
-<tr><td>OpenHermes 2.5 Mistral 7B (AWQ)</td><td></td></tr>
-<tr><td>Phi-2</td><td></td></tr>
-<tr><td>Qwen 1.5 0.5B Chat</td><td></td></tr>
-<tr><td>Qwen 1.5 1.8B Chat</td><td></td></tr>
-<tr><td>Qwen 1.5 14B Chat (AWQ)</td><td></td></tr>
-<tr><td>Qwen 1.5 7B Chat (AWQ)</td><td></td></tr>
-<tr><td>SQLCoder 7B 2</td><td></td></tr>
-<tr><td>Starling LM 7B Beta</td><td></td></tr>
-<tr><td>TinyLlama 1.1B Chat v1.0</td><td></td></tr>
-<tr><td>Una Cybertron 7B v2 (BF16)</td><td></td></tr>
-<tr><td>Zephyr 7B Beta (AWQ)</td><td></td></tr>
-<tr>
-        <td rowspan="7"><a href="https://console.cloud.google.com/vertex-ai/publishers/meta/model-garden" target="_blank">Google Cloud Vertex AI</a></td>
-        <td rowspan="7">Very stringent payment verification for Google Cloud.</td>
-        <td><a href="https://console.cloud.google.com/vertex-ai/publishers/meta/model-garden/llama-3.1-405b-instruct-maas" target="_blank">Llama 3.1 70B Instruct</a></td>
-        <td>Llama 3.1 API Service free during preview.<br>60 requests/minute</td>
-    </tr>
-    <tr>
-        <td><a href="https://console.cloud.google.com/vertex-ai/publishers/meta/model-garden/llama-3.1-405b-instruct-maas" target="_blank">Llama 3.1 8B Instruct</a></td>
-        <td>Llama 3.1 API Service free during preview.<br>60 requests/minute</td>
-    </tr>
-    <tr>
-        <td><a href="https://console.cloud.google.com/vertex-ai/publishers/meta/model-garden/llama-3.2-90b-vision-instruct-maas" target="_blank">Llama 3.2 90B Vision Instruct</a></td>
-        <td>Llama 3.2 API Service free during preview.<br>30 requests/minute</td>
-    </tr>
-    <tr>
-        <td><a href="https://console.cloud.google.com/vertex-ai/publishers/meta/model-garden/llama-3.3-70b-instruct-maas" target="_blank">Llama 3.3 70B Instruct</a></td>
-        <td>Llama 3.3 API Service free during preview.<br>30 requests/minute</td>
-    </tr>
-    <tr>
-        <td><a href="https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/gemini-experimental" target="_blank">Gemini 2.0 Flash Experimental</a></td>
-        <td rowspan="3">Experimental Gemini model.<br>10 requests/minute</td>
-    </tr>
-    <tr>
-        <td><a href="https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/gemini-experimental" target="_blank">Gemini 2.0 Flash Thinking Experimental</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/gemini-experimental" target="_blank">Gemini 2.0 Pro Experimental</a></td>
-    </tr></tbody></table>
+| Provider | Provider Limits/Notes | Model Name | Model Limits |
+|:--------:|:---------------------:|:----------:|:------------:|
+| [OpenRouter](https://openrouter.ai) | 20 requests/minute<br>200 requests/day | DeepHermes 3 Llama 3 8B Preview | |
+| | | DeepSeek R1 | |
+| | | DeepSeek R1 Distill Llama 70B | |
+| | | DeepSeek R1 Distill Qwen 14B | |
+| | | DeepSeek R1 Distill Qwen 32B | |
+| | | DeepSeek R1 Zero | |
+| | | DeepSeek V3 | |
+| | | Dolphin 3.0 Mistral 24B | |
+| | | Dolphin 3.0 R1 Mistral 24B | |
+| | | Gemini 2.0 Flash Lite Preview 02-05 | |
+| | | Gemma 2 9B Instruct | |
+| | | Gemma 3 12B Instruct | |
+| | | Gemma 3 1B Instruct | |
+| | | Gemma 3 27B Instruct | |
+| | | Gemma 3 4B Instruct | |
+| | | Llama 3 8B Instruct | |
+| | | Llama 3.1 8B Instruct | |
+| | | Llama 3.1 Nemotron 70B Instruct | |
+| | | Llama 3.2 11B Vision Instruct | |
+| | | Llama 3.2 1B Instruct | |
+| | | Llama 3.2 3B Instruct | |
+| | | Llama 3.3 70B Instruct | |
+| | | Mistral 7B Instruct | |
+| | | Mistral Nemo | |
+| | | Mistral Small 24B Instruct 2501 | |
+| | | Moonlight-16B-A3B-Instruct | |
+| | | Mythomax L2 13B | |
+| | | OlympicCoder 32B | |
+| | | OlympicCoder 7B | |
+| | | OpenChat 7B | |
+| | | Phi-3 Medium 128k Instruct | |
+| | | Phi-3 Mini 128k Instruct | |
+| | | Qwen 2 7B Instruct | |
+| | | Qwen 2.5 72B Instruct | |
+| | | Qwen QwQ 32B | |
+| | | Qwen QwQ 32B Preview | |
+| | | Qwen2.5 Coder 32B Instruct | |
+| | | Qwen2.5 VL 72B Instruct | |
+| | | Reka Flash 3 | |
+| | | Rogue Rose 103B v0.2 | |
+| | | Toppy M 7B | |
+| | | Zephyr 7B Beta | |
+| | | mistralai/mistral-small-3.1-24b-instruct:free | |
+| [Google AI Studio](https://aistudio.google.com) | Data is used for training (when used outside of the UK/CH/EEA/EU) | Gemini 2.0 Flash | 1,000,000 tokens/minute<br>1,500 requests/day<br>15 requests/minute |
+| | | Gemini 2.0 Flash-Lite | 1,000,000 tokens/minute<br>1,500 requests/day<br>30 requests/minute |
+| | | Gemini 2.0 Flash (Experimental) | 4,000,000 tokens/minute<br>1,500 requests/day<br>10 requests/minute |
+| | | Gemini 2.0 Pro (Experimental) | 5,000,000 tokens/day<br>2,000,000 tokens/minute<br>50 requests/day<br>2 requests/minute |
+| | | Gemini 1.5 Flash | 1,000,000 tokens/minute<br>1,500 requests/day<br>15 requests/minute |
+| | | Gemini 1.5 Flash-8B | 1,000,000 tokens/minute<br>1,500 requests/day<br>15 requests/minute |
+| | | Gemini 1.5 Pro | 32,000 tokens/minute<br>50 requests/day<br>2 requests/minute |
+| | | LearnLM 1.5 Pro (Experimental) | 1,500 requests/day<br>15 requests/minute |
+| | | Gemma 3 27B Instruct | 15,000 tokens/minute<br>14,400 requests/day<br>30 requests/minute |
+| | | text-embedding-004 | 150 batch requests/minute<br>1,500 requests/minute<br>100 content/batch |
+| | | embedding-001 | 150 batch requests/minute<br>1,500 requests/minute<br>100 content/batch |
+| [Mistral (La Plateforme)](https://console.mistral.ai/) | Free tier (Experiment plan) requires opting into data training, requires phone number verification | Open and Proprietary Mistral models | 1 request/second<br>500,000 tokens/minute<br>1,000,000,000 tokens/month |
+| [Mistral (Codestral)](https://codestral.mistral.ai/) | Currently free to use, monthly subscription based, requires phone number verification | Codestral | 30 requests/minute<br>2,000 requests/day |
+| [HuggingFace Serverless Inference](https://huggingface.co/docs/api-inference/en/index) | Limited to models smaller than 10GB.<br>Some popular models are supported even if they exceed 10GB | Various open models | [Variable credits per month, currently $0.10](https://huggingface.co/docs/api-inference/pricing) |
+| [Cerebras](https://cloud.cerebras.ai/) | Free tier restricted to 8K context | Llama 3.1 8B | 30 requests/minute<br>60,000 tokens/minute<br>900 requests/hour<br>1,000,000 tokens/hour<br>14,400 requests/day<br>1,000,000 tokens/day |
+| | | Llama 3.3 70B | 30 requests/minute<br>60,000 tokens/minute<br>900 requests/hour<br>1,000,000 tokens/hour<br>14,400 requests/day<br>1,000,000 tokens/day |
+| [Groq](https://console.groq.com) | | Allam 2 7B | 7,000 requests/day<br>6,000 tokens/minute |
+| | | DeepSeek R1 Distill Llama 70B | 1,000 requests/day<br>6,000 tokens/minute |
+| | | DeepSeek R1 Distill Qwen 32B | 1,000 requests/day<br>6,000 tokens/minute |
+| | | Distil Whisper Large v3 | 7,200 audio-seconds/minute<br>2,000 requests/day |
+| | | Gemma 2 9B Instruct | 14,400 requests/day<br>15,000 tokens/minute |
+| | | Llama 3 70B | 14,400 requests/day<br>6,000 tokens/minute |
+| | | Llama 3 8B | 14,400 requests/day<br>6,000 tokens/minute |
+| | | Llama 3.1 8B | 14,400 requests/day<br>6,000 tokens/minute |
+| | | Llama 3.2 11B Vision | 7,000 requests/day<br>7,000 tokens/minute |
+| | | Llama 3.2 1B | 7,000 requests/day<br>7,000 tokens/minute |
+| | | Llama 3.2 3B | 7,000 requests/day<br>7,000 tokens/minute |
+| | | Llama 3.2 90B Vision | 3,500 requests/day<br>7,000 tokens/minute |
+| | | Llama 3.3 70B | 1,000 requests/day<br>6,000 tokens/minute |
+| | | Llama 3.3 70B (Speculative Decoding) | 1,000 requests/day<br>6,000 tokens/minute |
+| | | Llama Guard 3 8B | 14,400 requests/day<br>15,000 tokens/minute |
+| | | Mistral Saba 24B | 1,000 requests/day<br>6,000 tokens/minute |
+| | | Qwen 2.5 32B | 1,000 requests/day<br>6,000 tokens/minute |
+| | | Qwen 2.5 Coder 32B | 1,000 requests/day<br>6,000 tokens/minute |
+| | | Qwen QwQ 32B | 1,000 requests/day<br>6,000 tokens/minute |
+| | | Whisper Large v3 | 7,200 audio-seconds/minute<br>2,000 requests/day |
+| | | Whisper Large v3 Turbo | 7,200 audio-seconds/minute<br>2,000 requests/day |
+| [OVH AI Endpoints (Free Beta)](https://endpoints.ai.cloud.ovh.net/) | | Codestral Mamba 7B v0.1 | 12 requests/minute |
+| | | DeepSeek R1 Distill Llama 70B | 12 requests/minute |
+| | | Llama 3.1 70B Instruct | 12 requests/minute |
+| | | Llama 3.1 8B Instruct | 12 requests/minute |
+| | | Llama 3.3 70B Instruct | 12 requests/minute |
+| | | Llava Next Mistral 7B | 12 requests/minute |
+| | | Mistral 7B Instruct v0.3 | 12 requests/minute |
+| | | Mistral Nemo 2407 | 12 requests/minute |
+| | | Mixtral 8x7B Instruct | 12 requests/minute |
+| [Together](https://together.ai) | | Llama 3.2 11B Vision Instruct | |
+| | | Llama 3.3 70B Instruct | |
+| | | DeepSeek R1 Distil Llama 70B | |
+| [Cohere](https://cohere.com) | [20 requests/min<br>1,000 requests/month](https://docs.cohere.com/docs/rate-limits) | Command-R | Shared Limit |
+| | | Command-R+ | Shared Limit |
+| | | Command-A | Shared Limit |
+| [GitHub Models](https://github.com/marketplace/models) | Extremely restrictive input/output token limits.<br>[Rate limits dependent on Copilot subscription tier](https://docs.github.com/en/github-models/prototyping-with-ai-models#rate-limits) | Extensive Model List | Varies |
+| [Chutes](https://chutes.ai/) | Distributed, decentralized crypto-based compute. Data is sent to individual hosts. | Various open models | |
+| [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai) | [10,000 neurons/day](https://developers.cloudflare.com/workers-ai/platform/pricing/#free-allocation) | Multiple Open Models | |
+| [Google Cloud Vertex AI](https://console.cloud.google.com/vertex-ai/publishers/meta/model-garden) | Very stringent payment verification for Google Cloud | Experimental Models | 30-60 requests/minute |
 
 ## Providers with trial credits
 
-<table>
-    <thead>
-        <tr>
-            <th>Provider</th>
-            <th>Credits</th>
-            <th>Requirements</th>
-            <th>Models</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://together.ai">Together</a></td>
-            <td>$1 when you add a payment method</td>
-            <td></td>
-            <td>Various open models</td>
-        </tr>
-        <tr>
-            <td><a href="https://fireworks.ai/">Fireworks</a></td>
-            <td>$1</td>
-            <td></td>
-            <td>Various open models</td>
-        </tr>
-        <tr>
-            <td><a href="https://unify.ai/">Unify</a></td>
-            <td>$5 when you add a payment method</td>
-            <td></td>
-            <td>Routes to other providers, various open models and proprietary models (OpenAI, Gemini, Anthropic, Mistral, Perplexity, etc)</td>
-        </tr>
-        <tr>
-            <td><a href="https://build.nvidia.com/explore/discover">NVIDIA NIM</a></td>
-            <td>1,000 API calls for 1 month</td>
-            <td></td>
-            <td>Various open models</td>
-        </tr>
-        <tr>
-            <td><a href="https://app.baseten.co/">Baseten</a></td>
-            <td>$30</td>
-            <td></td>
-            <td>Any supported model - pay by compute time</td>
-        </tr>
-        <tr>
-            <td><a href="https://studio.nebius.ai/">Nebius</a></td>
-            <td>$1</td>
-            <td></td>
-            <td>Various open models</td>
-        </tr>
-        <tr>
-            <td><a href="https://novita.ai/referral?invited_code=E5R0CA&ref=ytblmjc&utm_source=affiliate">Novita</a></td>
-            <td>$0.5 for 1 year<br>$20 for 3 months for DeepSeek models with <a href="https://novita.ai/referral?invited_code=E5R0CA&ref=ytblmjc&utm_source=affiliate">referral code</a> + GitHub account connection</td>
-            <td></td>
-            <td>Various open models</td>
-        </tr><tr><td rowspan="17"><a href="https://app.hyperbolic.xyz/" target="_blank">Hyperbolic</a></td><td rowspan="17">$1</td><td rowspan="17"></td><td>DeepSeek V3</td></tr>
-<tr><td>Hermes 3 Llama 3.1 70B</td></tr>
-<tr><td>Llama 3 70B Instruct</td></tr>
-<tr><td>Llama 3.1 405B Base</td></tr>
-<tr><td>Llama 3.1 405B Base (FP8)</td></tr>
-<tr><td>Llama 3.1 405B Instruct</td></tr>
-<tr><td>Llama 3.1 70B Instruct</td></tr>
-<tr><td>Llama 3.1 8B Instruct</td></tr>
-<tr><td>Llama 3.2 3B Instruct</td></tr>
-<tr><td>Llama 3.3 70B Instruct</td></tr>
-<tr><td>Pixtral 12B (2409)</td></tr>
-<tr><td>Qwen QwQ 32B</td></tr>
-<tr><td>Qwen QwQ 32B Preview</td></tr>
-<tr><td>Qwen2.5 72B Instruct</td></tr>
-<tr><td>Qwen2.5 Coder 32B Instruct</td></tr>
-<tr><td>Qwen2.5 VL 72B Instruct</td></tr>
-<tr><td>Qwen2.5 VL 7B Instruct</td></tr>
-<tr><td rowspan="19"><a href="https://cloud.sambanova.ai/" target="_blank">SambaNova Cloud</a></td><td rowspan="19">$5 for 3 months</td><td></td><td>Llama 3.1 405B</td></tr>
-<tr><td></td><td>Llama 3.1 70B</td></tr>
-<tr><td></td><td>Llama 3.1 8B</td></tr>
-<tr><td></td><td>Llama 3.2 11B Vision</td></tr>
-<tr><td></td><td>Llama 3.2 1B</td></tr>
-<tr><td></td><td>Llama 3.2 3B</td></tr>
-<tr><td></td><td>Llama 3.2 90B Vision</td></tr>
-<tr><td></td><td>Llama 3.3 70B</td></tr>
-<tr><td></td><td>Llama-Guard-3-8B</td></tr>
-<tr><td></td><td>Qwen/QwQ-32B</td></tr>
-<tr><td></td><td>Qwen/QwQ-32B-Preview</td></tr>
-<tr><td></td><td>Qwen/Qwen2-Audio-7B-Instruct</td></tr>
-<tr><td></td><td>Qwen/Qwen2.5-72B-Instruct</td></tr>
-<tr><td></td><td>Qwen/Qwen2.5-Coder-32B-Instruct</td></tr>
-<tr><td></td><td>allenai/Llama-3.1-Tulu-3-405B</td></tr>
-<tr><td></td><td>deepseek-ai/DeepSeek-R1</td></tr>
-<tr><td></td><td>deepseek-ai/DeepSeek-R1-Distill-Llama-70B</td></tr>
-<tr><td></td><td>tokyotech-llm/Llama-3.1-Swallow-70B-Instruct-v0.3</td></tr>
-<tr><td></td><td>tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.3</td></tr>
-<tr><td rowspan="10"><a href="https://console.scaleway.com/generative-api/models" target="_blank">Scaleway Generative APIs</a></td><td rowspan="10">1,000,000 free tokens</td><td></td><td>BGE-Multilingual-Gemma2</td></tr>
-<tr><td></td><td>DeepSeek R1 Distill Llama 70B</td></tr>
-<tr><td></td><td>DeepSeek R1 Distill Llama 8B</td></tr>
-<tr><td></td><td>Llama 3.1 70B Instruct</td></tr>
-<tr><td></td><td>Llama 3.1 8B Instruct</td></tr>
-<tr><td></td><td>Llama 3.3 70B Instruct</td></tr>
-<tr><td></td><td>Mistral Nemo 2407</td></tr>
-<tr><td></td><td>Pixtral 12B (2409)</td></tr>
-<tr><td></td><td>Qwen2.5 Coder 32B Instruct</td></tr>
-<tr><td></td><td>sentence-t5-xxl</td></tr>
-<tr>
-            <td><a href="https://studio.ai21.com/">AI21</a></td>
-            <td>$10 for 3 months</td>
-            <td></td>
-            <td>Jamba/Jurrasic-2</td>
-        </tr>
-        <tr>
-            <td><a href="https://console.upstage.ai/">Upstage</a></td>
-            <td>$10 for 3 months</td>
-            <td></td>
-            <td>Solar Pro/Mini</td>
-        </tr>
-        <tr>
-            <td><a href="https://nlpcloud.com/home">NLP Cloud</a></td>
-            <td>$15</td>
-            <td>Phone number verification</td>
-            <td>Various open models</td>
-        </tr>
-        <tr>
-            <td><a href="https://bailian.console.alibabacloud.com/">Alibaba Cloud (International) Model Studio</a></td>
-            <td>Token/time-limited trials on a per-model basis</td>
-            <td></td>
-            <td>Various open and proprietary Qwen models</td>
-        </tr>
-        <tr>
-            <td><a href="https://modal.com">Modal</a></td>
-            <td>$30/month</td>
-            <td></td>
-            <td>Any supported model - pay by compute time</td>
-        </tr></tbody>
-</table>
+| Provider | Credits | Requirements | Models |
+|:--------:|:-------:|:------------:|:-------:|
+| [Together](https://together.ai) | $1 when you add a payment method | | Various open models |
+| [Fireworks](https://fireworks.ai/) | $1 | | Various open models |
+| [Unify](https://unify.ai/) | $5 when you add a payment method | | Routes to other providers, various open models and proprietary models (OpenAI, Gemini, Anthropic, Mistral, Perplexity, etc) |
+| [NVIDIA NIM](https://build.nvidia.com/explore/discover) | 1,000 API calls for 1 month | | Various open models |
+| [Baseten](https://app.baseten.co/) | $30 | | Any supported model - pay by compute time |
+| [Nebius](https://studio.nebius.ai/) | $1 | | Various open models |
+| [Novita](https://novita.ai/referral?invited_code=E5R0CA&ref=ytblmjc&utm_source=affiliate) | $0.5 for 1 year<br>$20 for 3 months for DeepSeek models with [referral code](https://novita.ai/referral?invited_code=E5R0CA&ref=ytblmjc&utm_source=affiliate) + GitHub account connection | | Various open models |
+| [Hyperbolic](https://app.hyperbolic.xyz/) | $1 | | Multiple Models including DeepSeek V3, Llama 3 variants, Qwen models |
+| [SambaNova Cloud](https://cloud.sambanova.ai/) | $5 for 3 months | | Llama 3.1 and 3.2 models, Qwen models |
+| [Scaleway Generative APIs](https://console.scaleway.com/generative-api/models) | 1,000,000 free tokens | | Multiple open models |
+| [AI21](https://studio.ai21.com/) | $10 for 3 months | | Jamba/Jurrasic-2 |
+| [Upstage](https://console.upstage.ai/) | $10 for 3 months | | Solar Pro/Mini |
+| [NLP Cloud](https://nlpcloud.com/home) | $15 | Phone number verification | Various open models |
+| [Alibaba Cloud (International) Model Studio](https://bailian.console.alibabacloud.com/) | Token/time-limited trials on a per-model basis | | Various open and proprietary Qwen models |
+| [Modal](https://modal.com) | $30/month | | Any supported model - pay by compute time |
+
+**Developed with ❤️ by Davis Ogega**
+- 📧 Email: davisogega8@gmail.com
+- 👤 GitHub: davytheprogrammer
